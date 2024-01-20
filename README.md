@@ -1,4 +1,16 @@
 # Sales analysis - Q1 2023
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Variable Engineering](#variable-engineering)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Code](#code)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This data analysis project delves into the sales perormance of a business in the first quarter of 2023. By examining the various aspects, the analysis aims to pinpoint both the triumphs and setbacks of the business. Through this exploration, the objective is to gain a comprehensive understanding of the business's performance, creating an avenue for strategic recommendations. The ultimate goal is to propose measures that will not only rectify shortcomings but also enhance the overall performance of the business.
@@ -200,4 +212,13 @@ ORDER BY COUNT(payment) DESC;
 7. Evening hours are the peak hours. The business experiences many customers.
 8. January contributed the most to the gross income of Q1.
 9. Cash is the most preferred payment method.
+
+### Recommendations
+Based on the analysis we recommend the following actions:
+1. Consider investing more resources in Food and Bevarages. For Electronic Accessories, explore strategies to improve sales, such as targeted promotions or product enhancements.
+2. Acknowledge the positive ratings for "Food and Beverages" and assess factors contributing to this success. For other product lines rated as "fair," consider customer feedback and potential improvements to enhance their ratings.
+3. Allocate resources and marketing efforts according to the business' performance in the cities. Focus on Glasgow as the primary target for promotional activities.
+4. Address the high costs in Glasgow City. Identify areas for cost minimization without compromising the quality of products or services.
+5. Optimize staffing and resources during evening hours to capitalize on the peak customer activity. Consider special promotions or events during this time to attract more customers.
+6. Consider organizing periodic meetings or training sessions where top-performing branch will share insights and best practices with other branches.
     
